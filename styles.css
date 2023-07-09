@@ -1,1 +1,11 @@
 /* this is style file */
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  background-color: #fafafa;
+
+}
